@@ -10,6 +10,7 @@ namespace SumaAppMvvm.ViewModels
 {
     public partial class SumaViewModel:ObservableObject
     {
+
         [ObservableProperty]
         private double valor1;
 
@@ -51,7 +52,7 @@ namespace SumaAppMvvm.ViewModels
 
 
 
-
+       
 
 
 
